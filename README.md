@@ -1,3 +1,4 @@
+![开头引导带背景](http://liuzaoqi.oss-cn-beijing.aliyuncs.com/2021/01/26/kai-tou-yin-dao-dai-bei-jing.gif?域名/sample.jpg?x-oss-process=style/stylename)
 
 # 什么是可视化图鉴？
 
