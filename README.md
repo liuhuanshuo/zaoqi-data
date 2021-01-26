@@ -63,18 +63,14 @@
 
 [👉matplotlib使用中文字体](https://mp.weixin.qq.com/s/WKOGvQP-6QUAP00ZXjhweg)
 
-[👉matplotlib修改主题](https://mp.weixin.qq.com/s/SDcw0sCywjrsUEMIWd4VfA)
-
-[👉matplotlib修改配色](https://mp.weixin.qq.com/s/-KDiwGwMwIyiJBTxZxFw8A)
-
+[](https://mp.weixin.qq.com/s/SDcw0sCywjrsUEMIWd4VfA)
 -------
 
-
-## 柱状图
+### 柱状图
 
 |  基础   | 进阶  |高级  |
 |  :----:  | :----: |:----: |
-|[![](http://liuzaoqi.oss-cn-beijing.aliyuncs.com/2021/01/26/16116308728127.jpg?域名/sample.jpg?x-oss-process=style/stylename)](https://mp.weixin.qq.com/s/uz2bEeW3U47xyli8HFqiPQ) |[![-w600](http://liuzaoqi.oss-cn-beijing.aliyuncs.com/2021/01/26/16116311442527.jpg?域名/sample.jpg?x-oss-process=style/stylename)](https://mp.weixin.qq.com/s/U7qOkmTHlrBPg-50zXsqLQ)|[👉高级柱状图一张](https://mp.weixin.qq.com/s/ULBDOEuKQL9b7bH-VO0j4g)|
+|[👉基础柱状图1-3](https://mp.weixin.qq.com/s/uz2bEeW3U47xyli8HFqiPQ) |[👉进阶柱状图一张](https://mp.weixin.qq.com/s/U7qOkmTHlrBPg-50zXsqLQ)|[👉高级柱状图一张](https://mp.weixin.qq.com/s/ULBDOEuKQL9b7bH-VO0j4g)|
 |[👉基础柱状图4-6](https://mp.weixin.qq.com/s/kylqma0LVaoFBbZ0t3li6Q) | [👉极坐标系柱状图](https://mp.weixin.qq.com/s/zPafGefDxBWa6t4kOrKxiw) |  |
 |[👉基础柱状图7-9](https://mp.weixin.qq.com/s/1WV-HAR5Y1zilmU9RDI81A) |  |  |
 |[👉基础柱状图10-13](https://mp.weixin.qq.com/s/s5CcjIQ7fB3wPOwCgG01Dg) |  |  |
@@ -90,7 +86,7 @@
 
 |  基础   | 进阶  |高级  |
 |  :----:  | :----: |:----: |
-|[👉基础折线图1-3](https://mp.weixin.qq.com/s/y_GjWBBFUEloC4yWf-RzMg) | [👉进阶折线图7-9](https://mp.weixin.qq.com/s/jtPP7wPTe0cKRowNpBCexA) |  |
+|[👉基础折线图1-3](https://mp.weixin.qq.com/s/y_GjWBBFUEloC4yWf-RzMg) | [👉进阶折线图7-9](https://mp.weixin.qq.com/s/jtPP7wPTe0cKRowNpBCexA) | 待更新 |
 |[👉基础折线图4-6](https://mp.weixin.qq.com/s/7K6_WKrwvBr89Jw2vPjFoA)|[👉进阶折线图10-12](https://mp.weixin.qq.com/s/dwt57P0K1VtGJNUcJfn5zQ)| |
 
 -------
@@ -99,7 +95,7 @@
 
 |  基础   | 进阶  |高级  |
 |  :----:  | :----: |:----: |
-|[👉基础雷达图1-3](https://mp.weixin.qq.com/s/mb6Trb-c4uT4eD2cuOM3OA)|[👉进阶雷达图5](https://mp.weixin.qq.com/s/fCzDyD56AuyQfCFnpfN8IQ)| |
+|[👉基础雷达图1-3](https://mp.weixin.qq.com/s/mb6Trb-c4uT4eD2cuOM3OA)|[👉进阶雷达图5](https://mp.weixin.qq.com/s/fCzDyD56AuyQfCFnpfN8IQ)| 待更新|
 |[👉基础雷达图4](https://mp.weixin.qq.com/s/_FX1Olrl6ETU18n-CnFpLA)| | |
 
 
@@ -108,25 +104,22 @@
 
 ## 散点图
 
-[👉基础散点图](https://mp.weixin.qq.com/s/vLq2gAbyoxlXbIAjzShVrg)
-
-[👉基础散点图1-3](https://mp.weixin.qq.com/s/p-KXFqt42aEbN0thvPMGNw)
-
-[👉基础散点图4-6](https://mp.weixin.qq.com/s/9xuado2qKGEZ_aJOvzS75g)
-
-[👉进阶散点图7-8](https://mp.weixin.qq.com/s/smbkFYwj0F8PCbUHqtwUBA)
-
-[👉极坐标系散点图](https://mp.weixin.qq.com/s/SaLAvS7dG21eegFxJzMQEw)
-
+|  基础   | 进阶  |高级  |
+|  :----:  | :----: |:----: |
+|[👉基础散点图1-3](https://mp.weixin.qq.com/s/p-KXFqt42aEbN0thvPMGNw)|[👉进阶散点图7-8](https://mp.weixin.qq.com/s/smbkFYwj0F8PCbUHqtwUBA)| 待更新|
+|[👉基础散点图4-6](https://mp.weixin.qq.com/s/9xuado2qKGEZ_aJOvzS75g)|[👉极坐标系散点图](https://mp.weixin.qq.com/s/SaLAvS7dG21eegFxJzMQEw)| |
+|[👉基础散点图-gallery精选](https://mp.weixin.qq.com/s/vLq2gAbyoxlXbIAjzShVrg)| | |
 
 -------
 
 
 ## 饼图
 
-[👉基础饼图](https://mp.weixin.qq.com/s/bolQbMBKH8ZhTL-k1J3KZQ)
+|  基础   | 进阶  |高级  |
+|  :----:  | :----: |:----: |
+|[👉基础饼图](https://mp.weixin.qq.com/s/bolQbMBKH8ZhTL-k1J3KZQ)|[👉进阶饼图两张](https://mp.weixin.qq.com/s/oAinEBj-aiPFW12WLqNKXQ)| 待更新|
+|[👉基础饼图](https://mp.weixin.qq.com/s/PnHgKnUtDcyfypiAXEbFlA)| |  |
 
-[👉基础饼图](https://mp.weixin.qq.com/s/PnHgKnUtDcyfypiAXEbFlA)
 
 
 -------
@@ -134,19 +127,21 @@
 
 ## 箱线图
 
-[👉基础箱线图1-3](https://mp.weixin.qq.com/s/IJyUWOc9kplUSyHGoXIO2w)
+|  基础   | 进阶  |高级  |
+|  :----:  | :----: |:----: |
+|[👉基础箱线图1-3](https://mp.weixin.qq.com/s/IJyUWOc9kplUSyHGoXIO2w)|[👉进阶箱线图一张](https://mp.weixin.qq.com/s/P756Da0jXqGQ438N5aCIqQ)| 待更新|
+|[👉基础箱线图4-6](https://mp.weixin.qq.com/s/EeHI7AnGEEU5_JVyicRwRQ)| | |
 
-[👉基础箱线图4-6](https://mp.weixin.qq.com/s/EeHI7AnGEEU5_JVyicRwRQ)
 
-[👉进阶箱线图一张](https://mp.weixin.qq.com/s/P756Da0jXqGQ438N5aCIqQ)
 
 
 -------
 
 
 ## 漏斗图
-
-[👉基础漏斗图一张](https://mp.weixin.qq.com/s/letmjoh0E_7jkNmaqyQz9A)
+|  基础   | 进阶  |高级  |
+|  :----:  | :----: |:----: |
+|[👉基础漏斗图一张](https://mp.weixin.qq.com/s/letmjoh0E_7jkNmaqyQz9A)|待更新|待更新|
 
 
 -------
@@ -154,10 +149,21 @@
 
 ## 密度图
 
-[👉基础密度图一张](https://mp.weixin.qq.com/s/MT5U0hiJbUl9PYHemhjD6A)
+|  基础   | 进阶  |高级  |
+|  :----:  | :----: |:----: |
+|[👉基础密度图一张](https://mp.weixin.qq.com/s/MT5U0hiJbUl9PYHemhjD6A)|待更新|待更新|2021年1月26日
 
 
 -------
+
+# Pyecharts图鉴
+即将更新，敬请期待！
+# Seaborn图鉴
+正在制作中，敬请期待！
+# Bookeh图鉴
+正在制作中，敬请期待！
+# Plotly图鉴
+正在制作中，敬请期待！
 
 
 <center ><font face="黑体" size=5>微信搜索：**可视化图鉴**</center></font>
