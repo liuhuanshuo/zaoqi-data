@@ -166,8 +166,8 @@
 正在制作中，敬请期待！
 
 
-<center ><font face="黑体" size=5>微信搜索：**可视化图鉴**</center></font>
-<center ><font face="黑体" size=5>或者扫描下方二维码关注我</center></font>
+> 微信搜索「可视化图鉴」关注我，第一时间接收最新文章
+
 ![](http://liuzaoqi.oss-cn-beijing.aliyuncs.com/2021/01/15/wen-mo-yin-dao.gif?域名/sample.jpg?x-oss-process=style/stylename)
 
 
